@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 <br />
 <br />
-<br />
 
 <div>
   <h2>🛠️ Programming Competences</h4>
@@ -51,7 +50,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
-<br />
 <br />
 <br />
 
